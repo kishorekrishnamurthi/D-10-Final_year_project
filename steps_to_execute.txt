@@ -1,0 +1,30 @@
+1. open eclips run land-register project
+2. open mysql locate land_registration
+3. open ganache
+4. open ipfs
+5. python-service -> open in cmd
+	run land.py
+6. open vs code
+	run server.js
+9. open browser in url type localhost:8080/land-register/
+10. click admin and login
+11. new tab type localhost:8080/land-register/
+12. click buyer and click register
+	login buyer
+13. new tab type localhost:8080/land-register/
+14. click seller and click register
+	login seller
+15. Now seller can add the land so click add land
+16. you can enter seller aadhar no
+17. go to buyer dashboard and refresh page
+18. click the request land btn
+19. go to admin dashboard and refresh page
+	click approve
+20. go to seller dashboard click sell land
+	click sell land btn
+21. back to buyer dashboard 
+22. click make payment btn
+	payment is success click view document btn to view land purchased document and you can download it 
+23. if you are make same transaction it could faild.
+24. click view your land in buyer dashboard
+	 the land is purchased.
